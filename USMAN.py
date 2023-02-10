@@ -36,7 +36,7 @@ except ImportError:
 
 import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 
-from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup as sop 
 
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 
